@@ -8,8 +8,7 @@ Meu nome é **Lukas** e sou apaixonado por tecnologia, desenvolvimento e design.
 🌍 Idiomas que falo:  
 - 🇧🇷 Português (nativo)  
 - 🇺🇸 Inglês  
-- 🇪🇸 Espanhol  
-- 🇫🇷 Francês (básico)
+
 
 🔧 Sempre em busca de aprender mais e criar soluções inovadoras!
 
